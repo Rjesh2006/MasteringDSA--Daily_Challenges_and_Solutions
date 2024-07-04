@@ -4,7 +4,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
 
 **Here we have the given links for the particular_day_pracctice:---🥇**
-- [DAY 1 --**]()
+- [DAY 1 --*sffe*]()
 
 - [DAY 2 --**]()
 
