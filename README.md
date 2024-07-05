@@ -4,6 +4,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
 
 **Here we have the given links for the particular_day_pracctice:---🥇**
+
 - [DAY 1 --*conditionla loops patterns_programmes*]()
 
 - [DAY 2 --*variable scoping *]()
@@ -35,5 +36,5 @@ This repository is dedicated to helping you master Data Structures and Algorithm
               - [DAY 15 --*weekly extras prog's*]()
 
 
-**update will be soon ---------------⏰**
+**update to be continued--------------⏰**
 
