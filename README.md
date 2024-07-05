@@ -32,7 +32,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
             - [DAY 14 --*Selections sorrt prog's*]()
             
-              - [DAY 15 --**]()
+              - [DAY 15 --*weekly extras prog's*]()
 
 
 **update will be soon ---------------⏰**
