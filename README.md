@@ -7,7 +7,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
 - [DAY 1 --*conditionla loops patterns_programmes*]()
 
-- [DAY 2 --*variable scoping *]()
+- [DAY 2 --*pattern prog's*]()
 
   - [DAY 3 --*leet code problem solving*]()
 
