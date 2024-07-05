@@ -4,33 +4,33 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
 
 **Here we have the given links for the particular_day_pracctice:---🥇**
-- [DAY 1 --**]()
+- [DAY 1 --*conditionla loops patterns_programmes*]()
 
-- [DAY 2 --**]()
+- [DAY 2 --*variable scoping *]()
 
-  - [DAY 3 --**]()
+  - [DAY 3 --*leet code problem solving*]()
 
-  - [DAY 4 --**]()
+  - [DAY 4 --*switch statements programmes*]()
 
-    - [DAY 5 --**]()
+    - [DAY 5 --*arrays prog's*]()
 
-    - [DAY 6 --**]()
+    - [DAY 6 --*leetcode prog's*]()
 
-      - [DAY 7 --**]()
+      - [DAY 7 --*leet code prog's*]()
 
-      - [DAY 8 --**]()
+      - [DAY 8 --*time &space somplexityquestions*]()
 
-        - [DAY 9 --**]()
+        - [DAY 9 --*binary search programmes to manage time complexity **TLE**]()
 
-        - [DAY 10 --**]()
+        - [DAY 10 --*B S programmes*]()
 
-          - [DAY 11 --**]()
+          - [DAY 11 --* B S leet codes prog's*]()
 
-          - [DAY 12 --**]()
+          - [DAY 12 --*B S  major asked prog's*]()
 
-            - [DAY 13 --**]()
+            - [DAY 13 --*BOOK allocation prog's*]()
 
-            - [DAY 14 --**]()
+            - [DAY 14 --*Selections sorrt prog's*]()
             
               - [DAY 15 --**]()
 
