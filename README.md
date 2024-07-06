@@ -11,7 +11,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
   - [DAY 3 --*leet code problem solving*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day3)
 
-  - [DAY 4 --*switch statements programmes*]((https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day7))
+  - [DAY 4 --*switch statements programmes*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day7)
 
     - [DAY 5 --*arrays prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day8)
 
