@@ -27,14 +27,6 @@ return false;
 }
 
 
-
-
-
-
-
-
-
-
 int agressive_cow ( int arr[], int size, int k ){
 int s=0;
 int sum =0;
@@ -65,20 +57,6 @@ return largest_distance;
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
