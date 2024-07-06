@@ -60,7 +60,6 @@ return largest_distance;
 
 
 
-
 int main (){
 int size ;
 cout<<" enter the size here:";
@@ -78,7 +77,12 @@ for (int i = 0; i < size; i++)
     cin>>stall[i];
 
 }
-agressive_cow(stall,size,k);
-
-
+int result =agressive_cow(stall,size,k);
+if(result !=-1)
+{
+    cout<< " here is the largest distance from one cow to another :"<< result;
+    } elsse{
+    cout<< "largest ale not able to find  "<<result;
+    }
+return 0;
 }
