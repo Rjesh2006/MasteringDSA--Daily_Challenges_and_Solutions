@@ -31,9 +31,9 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
             - [DAY 13 --*BOOK allocation prog's*]()
 
-            - [DAY 14 --*Selections sorrt prog's*]()
+            - [DAY 14 --*Selections sorrt prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day14)
+              
             
-              - [DAY 15 --*weekly extras prog's*]()
 
 
 **update to be continued--------------⏰**
