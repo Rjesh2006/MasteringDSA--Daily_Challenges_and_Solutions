@@ -33,9 +33,9 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
             - [DAY 14 --*Sorting's prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day14)
               
-          - [DAY 15 --*STL*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day15)
+             - [DAY 15 --*STL*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day15)
 
-             - [day 16--stl*array quest's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day16)
+               - [day 16--stl*array quest's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day16)
 
 
 **update to be continued--------------⏰**
