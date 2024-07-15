@@ -25,9 +25,9 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
         - [DAY 10 --*B S programmes*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day11)
 
-          - [DAY 11 --* B S leet codes prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day11)
+          - [DAY 11 --*B S leet codes prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day11)
 
-          - [DAY 12 --*B S  major asked prog's major asked  quest*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day12)
+          - [DAY 12 --*B-S  major asked prog's major asked  quest*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day12)
 
             - [DAY 13 --*BOOK allocation prog's*]()
 
