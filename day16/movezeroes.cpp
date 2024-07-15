@@ -24,21 +24,6 @@ void move_zeroes( int arr[],int size){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 int main (){
 
     int n;
