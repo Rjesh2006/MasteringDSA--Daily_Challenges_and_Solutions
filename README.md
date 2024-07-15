@@ -21,7 +21,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
       - [DAY 8 --*time &space somplexityquestions*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day9)
 
-        - [DAY 9 --*binary search programmes to manage time complexity **TLE**](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day10)
+        - [DAY 9 --*binary search programmes to manage time complexity* **TLE**](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day10)
 
         - [DAY 10 --*B S programmes*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day11)
 
