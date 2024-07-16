@@ -3,7 +3,7 @@
 This repository is dedicated to helping you master Data Structures and Algorithms through daily problem-solving practice. Each day, a new challenge will be tackled, and the solution will be provided, explained, and documented. 🚀💡📚
 
 
-**Here we have the given links for the particular_day_pracctice:---🥇**
+**<ins>Here we have the given links for the particular_day_pracctice:---<ins>🥇**
 
 - [DAY 1 --*conditionla loops patterns_programmes*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day1)
 
