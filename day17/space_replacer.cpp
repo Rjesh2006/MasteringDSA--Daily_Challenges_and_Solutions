@@ -40,7 +40,7 @@ str = result_store;
 
 int main (){
     string str= " the name is  Rajesh ";
-  cout << " Here is your previos string with space _  --> :"<<str;
+  cout << " Here is your previos string with space _  --> : "<<str;
   
 space_replacer( str);
 
