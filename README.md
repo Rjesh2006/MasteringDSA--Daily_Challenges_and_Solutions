@@ -41,7 +41,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
                   - [day 17--*char-array-prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day17)
                     
                      -  [day 19--*2-d array prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day19)
-                         -  -  [day 20--*Sieve of Eratosthenes algorithm*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day19)
+                         -  -  [day 20--*Sieve of Eratosthenes algorithm*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day20)
  
 
 
