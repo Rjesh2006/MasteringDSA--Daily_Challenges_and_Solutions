@@ -17,7 +17,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 - [**DAY 10** -- *Binary Search Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day11)
 - [**DAY 11** -- *Binary Search LeetCode Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day11)
 - [**DAY 12** -- *Binary Search Major Asked Programs & Questions*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day12)
-- [**DAY 13** -- *Book Allocation Programs*]((https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day13))
+- [**DAY 13** -- *Book Allocation Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day13)
 - [**DAY 14** -- *Sorting Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day14)
 - [**DAY 15** -- *STL*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day15)
 - [**DAY 16** -- *STL Array Questions*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day16)
