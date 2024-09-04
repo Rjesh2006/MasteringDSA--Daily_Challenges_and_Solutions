@@ -36,7 +36,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
                             - [**DAY 15** -- *STL*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day_15_stl)
 
                               - [**DAY 16** -- *STL Array Questions*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day_16_stl_array_questions)
-
+ 
                                 - [**DAY 17** -- *Char-Array Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day_17_char_array_programs)
 
                                   - [**DAY 19** -- *2-D Array Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day_19_2d_array_programs)
