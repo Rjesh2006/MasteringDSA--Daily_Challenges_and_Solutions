@@ -5,7 +5,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 
 **<ins>Here we have the given links for the particular day practice:</ins>---🥇**
 
-- [**DAY 1** -- *Conditional Loops Patterns & Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day1)
+- [**DAY 1** -- *Conditional Loops Patterns & Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day1) 
 - [**DAY 2** -- *Pattern Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day2)
 - [**DAY 3** -- *LeetCode Problem Solving*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day3)
 - [**DAY 4** -- *Switch Statements Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day7)
