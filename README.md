@@ -24,11 +24,11 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 - [DAY 17 --*char-array-prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day17)
 - [DAY 19 --*2-D array prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day19)
 - [DAY 20 --*Sieve of Eratosthenes algorithm*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day20)
-- [DAY 21 --*Bit Manipulation Prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day21)
-- [DAY 22 --*Static vs Dynamic Memory*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day22)
-- [DAY 23 --*Recursion Prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day23)
-- [DAY 24 --*Backtracking Prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day24)
-- [DAY 25 --*Dynamic Programming (DP) Prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day25)
-- [DAY 26 --*Greedy Algorithms Prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day26)
-
+- [DAY 21 --**](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day22)
+- [DAY 22 --**]([https:](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day24datesecosep))
+- [DAY 23 --**]([https](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day25))
+- [DAY 24 --**]([https](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day26))
+- [DAY 25 --**]([https](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day27))
+- [DAY 26 --**]([https](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day28))
+- [DAY 27 --**](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day29)
 **update to be continued--------------⏰**
