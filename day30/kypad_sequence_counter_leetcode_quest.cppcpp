@@ -1,0 +1,51 @@
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+
+void solve(const string& digits, vector<string>& ans, string output, int index, const string mapping[]) {
+    // Base case: if index reaches the length of digits, add the current combination to the result
+    if (index >= digits.length()) {
+        ans.push_back(output);
+        return;
+    }
+
+    // Get the corresponding letters for the current digit
+    int number = digits[index] - '0'; // Convert char to int
+    string value = mapping[number]; // Get the letters mapped to the digit
+
+    // Explore all possible letters for the current digit
+    for (char ch : value) {
+        output.push_back(ch); // Add letter to the current combination
+        solve(digits, ans, output, index + 1, mapping); // Recurse with next index
+        output.pop_back(); // Backtrack: remove the last added letter
+    }
+}
+
+int main() {
+    vector<string> ans;
+    string digits;
+
+    cout << "Enter the digits of string here: ";
+    cin >> digits;
+
+    if (digits.empty()) {
+        return 0; // Exit if no digits are provided
+    }
+
+    string output;
+    int index = 0;
+
+    // Phone keypad mapping
+    string mapping[10] = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+
+    solve(digits, ans, output, index, mapping);
+
+    // Print the result
+    for (const auto& str : ans) {
+        cout << str << " ";
+    }
+    cout << endl;
+
+    return 0;
+}
