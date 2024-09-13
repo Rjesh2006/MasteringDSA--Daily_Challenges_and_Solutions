@@ -20,7 +20,7 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 - [**DAY 7** -- *LeetCode Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day8)
 
 - [**DAY 8** -- *Time & Space Complexity Questions*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day9)
-- 
+
 - [**DAY 9** -- *Binary Search Programs to Manage Time Complexity* **TLE**](https://github.com/Rjesh2006/MasteringDSADaily_Challenges_and_Solutions/tree/main/day10)
 
 - [**DAY 10** -- *Binary Search Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day11)
