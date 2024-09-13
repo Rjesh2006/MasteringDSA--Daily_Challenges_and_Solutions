@@ -57,9 +57,11 @@ This repository is dedicated to helping you master Data Structures and Algorithm
  
 - [**DAY 27** -- *Quick Sort*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day29)
   
-- [**DAY 27** -- * modification allows *](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day29)
-- 
-- [**DAY 27** -- *Quick Sort*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day29)
+- [**DAY 28** -- *mdf*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day29)
+ 
+- [**DAY 29** -- *mdf*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day29)
+
+- [**DAY 30**   *mdf*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day29) 
 
 
 
