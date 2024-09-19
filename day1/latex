@@ -1,18 +1,24 @@
 \documentclass{article}
 \usepackage{amsmath}
+\usepackage{amssymb}
+
 \begin{document}
 
+Let $\mathbf{x} = (x_1, \dots, x_n)$, where the $x_i$ are nonnegative real numbers. Set
+
 \[
-\prod_p \left( 1 - \frac{1}{p^2} \right) = \prod_p \frac{1}{1 + \frac{1}{p^2} + \frac{1}{p^4} + \cdots}
+M_r(\mathbf{x}) = \left( \frac{x_1^r + x_2^r + \dots + x_n^r}{n} \right)^{1/r}, \quad r \in \mathbb{R} \setminus \{0\}
 \]
+and
 \[
-= \left( \prod_p \left( 1 + \frac{1}{p^2} + \frac{1}{p^4} + \cdots \right) \right)^{-1}
+M_0(\mathbf{x}) = (x_1 x_2 \dots x_n)^{1/n}
 \]
+
+We call $M_r(\mathbf{x})$ the $r$th power mean of $\mathbf{x}$.
+
+Claim:
 \[
-= \left( 1 + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + \cdots \right)^{-1}
-\]
-\[
-= \frac{6}{\pi^2}
+\lim_{r \to 0} M_r(\mathbf{x}) = M_0(\mathbf{x}).
 \]
 
 \end{document}
