@@ -99,7 +99,6 @@ Node* taildelition(Node* head){
      Node* prev=NULL;
 
 
-
     while (temp!=NULL)
     {
         count++;
@@ -110,24 +109,22 @@ Node* taildelition(Node* head){
            free(temp);
            break;
 
-
         }
-//this for if k== not equal you enter index elemtnit or node
+//this for if k is not equal you enter index elemtnit or node whic u wanna to delete
         prev=temp;
         cout<<" after here we have the prev.?next     "<<prev<<endl;
         temp=temp->next;
 
     }
-    
     return head;
-
-
+      
   }
+
 
 int main(){
 vector<int> arr={2,3,5,5};
 Node*Heads = nodeconcvet2all(arr);
-//Heads=remove(Heads);
+//Heads=remove(Heads);   //uncoomet thiis pfucntion to call ut it will onnly delte the head whichis the  first node
 
 //here we wanna to deltee the secind last means that tail node from the linklist by the taireover fuction by putting the head onto that
 Heads =taildelition(Heads);
