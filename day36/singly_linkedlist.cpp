@@ -18,7 +18,7 @@ class Node {
             next=nullptr;
         }
 };
-
+//here we are assign the newnode to the elements of the array here --temp node for the further nodes and moving temp to the newnode 
 Node* nodeconcvet2all(vector<int> &arr){
         if (arr.empty()) return nullptr; // Check for empty vector
         Node* head=new Node(arr[0]);
@@ -124,7 +124,7 @@ Node* taildelition(Node* head){
 int main(){
 vector<int> arr={2,3,5,5};
 Node*Heads = nodeconcvet2all(arr);
-//Heads=remove(Heads);   //uncoomet thiis pfucntion to call ut it will onnly delte the head whichis the  first node
+//Heads=remove(Heads);   //uncooment thiis pfucntion to call ut it will onnly delte the head whichis the  first node
 
 //here we wanna to deltee the secind last means that tail node from the linklist by the taireover fuction by putting the head onto that
 Heads =taildelition(Heads);
