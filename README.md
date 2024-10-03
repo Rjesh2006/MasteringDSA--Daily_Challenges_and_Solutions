@@ -44,7 +44,7 @@ Each day, a new challenge will be tackled, and the solution will be provided, ex
 - 🔵 **[DAY 36 -- Doubly Linked List Programs](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day37)**
 - 🟢 **[DAY 37 -- Node Adder](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day38)**
 - 🔵 **[DAY 38 -- Node Segregation](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day39)**
-- 🔵 **[DAY 39 -linklist-certain_elements-finder-list- ](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day40)**
+- 🔵 **[DAY 39 --linklist-certain_elements-finder-list- ](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day40)**
 - 🟢 **[DAY 40 --]()**
 - 🟢 **[DAY 41 --]()**
 - 🔵 **[DAY 42 -- ]()**
