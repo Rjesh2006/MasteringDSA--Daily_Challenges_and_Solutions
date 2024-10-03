@@ -36,3 +36,8 @@ This repository is dedicated to helping you master Data Structures and Algorithm
 🟢 [**DAY 33** -- *OOP Concepts*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day34)  
 🔵 [**DAY 34** -- *Inheritance Programs*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day35)
 🟢 [**DAY 35** -- *Singly_linkedlist_prog's*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day36)
+🔵  [**DAY 36** Doubly_linklist prog's**](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day37)
+🟢 [**DAY 37** -- *NOde___adder*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day38)
+🔵 [**DAY 38** -- *Node_segration*](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day39)
+
+
