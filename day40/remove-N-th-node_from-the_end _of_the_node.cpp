@@ -81,8 +81,6 @@ Node* removefrmnth_node(Node* head,int n){
 
 
 
-
-
 int main(){
 Node* Head=new Node(10);
 vector<int> arr={2,3,4,5,7};
