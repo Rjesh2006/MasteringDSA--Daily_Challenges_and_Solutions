@@ -75,9 +75,6 @@ Node* list_rever_reursion(Node* head){
     head->next= NULL;
 
 
-
-    
-
     return newhead;
 
     
