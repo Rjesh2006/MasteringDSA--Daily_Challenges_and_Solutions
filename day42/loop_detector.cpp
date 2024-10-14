@@ -73,10 +73,6 @@ bool loop_detector_(Node* head){
 }
 
 
-
-
-
-
 int main(){
     vector<int> arr={23,5,5,3,2,2};
     Node* Head=new Node(10);
