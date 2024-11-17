@@ -48,7 +48,7 @@ Each day, a new challenge will be tackled, and the solution will be provided, ex
                                                                                                                                                     - 🟢 **[DAY 40 --DoublyLinkedListOperationsWithRecursion](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day41)**
                                                                                                                                                         - 🟢 **[DAY 41 -Extra's--->linklist: Practice Prog's-](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day42)**
                                                                                                                                                             - 🔵 **[DAY 42 -Stack-prog's, ](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/tree/main/day43)**
-                                                                                                                                                                - 🟢 **[DAY 43 --]()**
+                                                                                                                                                                - 🟢 **[DAY 43 -Tree prog's-](https://github.com/Rjesh2006/MasteringDSA--Daily_Challenges_and_Solutions/new/main)**
                                                                                                                                                                     - 🟢 **[DAY 44 --]()**
 
 ---
