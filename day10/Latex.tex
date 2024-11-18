@@ -1,0 +1,54 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+
+\begin{document}
+
+\begin{center}
+    \textbf{Assignment-02}
+\end{center}
+
+\begin{center}
+    \textbf{My Document} \\
+    Rajesh \\
+    January 1, 2011
+\end{center}
+
+\vspace{1cm}
+
+1. Let $\mathbf{x} = (x_1, \ldots, x_n)$, where the $x_i$ are nonnegative real numbers. Set
+\[
+M_r(\mathbf{x}) = \left( \frac{x_1^r + x_2^r + \cdots + x_n^r}{n} \right)^{1/r}, \quad r \in \mathbb{R} \setminus \{0\},
+\]
+and
+\[
+M_0(\mathbf{x}) = (x_1 x_2 \cdots x_n)^{1/n}.
+\]
+We call $M_r(\mathbf{x})$ the $r$th power mean of $\mathbf{x}$. 
+
+\textbf{Claim:}
+\[
+\lim_{r \to 0} M_r(\mathbf{x}) = M_0(\mathbf{x}).
+\]
+
+\vspace{0.5cm}
+
+2. Define
+\[
+V_n = 
+\begin{bmatrix}
+    1 & 1 & 1 & \cdots & 1 \\
+    x_1 & x_2 & x_3 & \cdots & x_n \\
+    x_1^2 & x_2^2 & x_3^2 & \cdots & x_n^2 \\
+    \vdots & \vdots & \vdots & \ddots & \vdots \\
+    x_1^{n-1} & x_2^{n-1} & x_3^{n-1} & \cdots & x_n^{n-1}
+\end{bmatrix}.
+\]
+We call $V_n$ the \textit{Vandermonde matrix of order $n$}.
+
+\textbf{Claim:}
+\[
+\det V_n = \prod_{1 \leq i < j \leq n} (x_j - x_i).
+\]
+
+\end{document}
