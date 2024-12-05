@@ -89,6 +89,15 @@ using namespace std;
       
     }
 
+
+~Stack() {
+        while (!isempty()) {
+            pop();
+        }
+    }
+
+}
+
     
 
  };
