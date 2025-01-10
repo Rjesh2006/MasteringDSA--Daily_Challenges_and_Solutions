@@ -57,6 +57,11 @@ public:
     void Top2() {
         cout << arr[top2] << "\n";
     }
+
+~Nstack(){
+cout<<"destructor called here \n";
+}
+
 };
 
 int main() {
